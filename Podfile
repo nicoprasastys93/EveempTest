@@ -9,6 +9,9 @@ target 'EveempTest' do
   pod 'Alamofire', '~> 4.7'
   pod "CollectionViewWaterfallLayout"
   pod 'SwiftyJSON', '~> 4.0'
+  pod 'SwiftHEXColors'
+
+
 
   # Pods for EveempTest
 
