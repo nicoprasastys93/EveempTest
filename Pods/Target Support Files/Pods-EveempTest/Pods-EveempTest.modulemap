@@ -1,0 +1,6 @@
+framework module Pods_EveempTest {
+  umbrella header "Pods-EveempTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

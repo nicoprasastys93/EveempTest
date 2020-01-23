@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CollectionViewWaterfallLayout (0.5.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - CollectionViewWaterfallLayout
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CollectionViewWaterfallLayout
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CollectionViewWaterfallLayout: 4399ba01be265fff4da1ed1d607130fe009780e4
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: f4a93522611348244c662938ca427de70e53e2b9
+
+COCOAPODS: 1.8.4
